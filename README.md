@@ -20,7 +20,7 @@ Welcome to the official repository for the AI Club's Summer School 2024! This re
 
 ## Overview
 
-The AI Club's Summer School 2024 is designed to provide participants with a comprehensive understanding of Artificial Intelligence (AI) and its various subfields. The sessions cover fundamental concepts, practical applications, and ethical considerations in AI.
+The AI Club's Summer School 2024 is designed to provide participants with a comprehensive understanding of Artificial Intelligence (AI) and its various subfields. The sessions cover fundamental concepts, practical applications, and engaging assignments to reinforce learning. 
 
 ## Schedule
 
