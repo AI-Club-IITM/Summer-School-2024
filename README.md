@@ -7,15 +7,6 @@ Welcome to the official repository for the AI Club's Summer School 2024! This re
 - [Overview](#overview)
 - [Schedule](#schedule)
 - [Resources](#resources)
-  - [Session 1: Intro to Python and OOP](###session-1-intro-to-python-and-oop)
-  - [Session 2: Data Analysis and Preprocessing](#session-2-data-analysis-and-preprocessing)
-  - [Session 3: Regression Models](#session-3-regression-models)
-  - [Session 4: Classification Models](#session-4-classification-models)
-  - [Session 5: Decision Models and Ensemble Methods](#session-5-decision-models-and-ensemble-methods)
-  - [Session 6: Optimizers and Regularization](#session-6-optimizers-and-regularization)
-  - [Session 7: Intro to Pytorch and Deep Learning](#session-7-intro-to-pytorch-and-deep-learning)
-  - [Session 8: Computer Vision](#session-8-computer-vision)
-  - [Session 9: Natural Language Processing](#session-9-natural-language-processing)
 - [Contact](#contact)
 
 ## Overview
