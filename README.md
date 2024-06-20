@@ -35,16 +35,13 @@ For detailed information on the schedule and session timings, please refer to th
 
 - **Slides:** [Intro to Python.pdf](Resources/Session%201/Intro_to_Python.pdf)
 - **Video Recording:** [Session 1 Video](https://www.youtube.com/watch?v=kv-ct3oKUvY)
-- **Google Colab Notebooks:**
-  - [Python Recap](Resources/Session%201/Intro_to_Python.ipynb)
-  - [Data Structures](Resources/Session%201/data_structures.ipynb)
-  - [Assignment](Resources/Session%201/Assignment_1.ipynb)
+- [**Google Colab Notebooks**](Resources/Session%201)
 
 
 ### Session 2: Data Analysis and Preprocessing
 
 - **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
-- **Google Colab Notebooks:**[](Resources/Session%202)
+- [**Google Colab Notebooks**](Resources/Session%202)
  
 
 ## Contributing
