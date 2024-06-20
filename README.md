@@ -43,7 +43,7 @@ For detailed information on the schedule and session timings, please refer to th
 
 ### Session 2: Data Analysis and Preprocessing
 
-- **Video Recording:** [Session 1 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
+- **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
 - **Google Colab Notebooks:**[](Resources/Session%202)
  
 
