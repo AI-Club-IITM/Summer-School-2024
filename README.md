@@ -33,7 +33,7 @@ For detailed information on the schedule and session timings, please refer to th
 
 ### Session 1: Intro to Python and OOP
 
-- **Slides:** [Intro to Python.pdf](Resources/Session%201/Intro_to_Python.pdf)
+- **Slides:** [Intro to Python](Resources/Session%201/Intro_to_Python.pdf)
 - **Video Recording:** [Session 1 Video](https://www.youtube.com/watch?v=kv-ct3oKUvY)
 - [**Google Colab Notebooks**](Resources/Session%201)
 
@@ -42,6 +42,12 @@ For detailed information on the schedule and session timings, please refer to th
 
 - **Video Recording:** [Session 2 Video](https://www.youtube.com/watch?v=l9on4nbSCqI)
 - [**Google Colab Notebooks**](Resources/Session%202)
+
+### Session 3: Regression Models
+
+- **Slides:** [Linear, Polynomial & Logistic Regression](Resources/Session%203)
+- **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
+- [**Google Colab Notebooks**](Resources/Session%203)
  
 
 ## Contributing
