@@ -48,6 +48,12 @@ For detailed information on the schedule and session timings, please refer to th
 - **Slides:** [Linear, Polynomial & Logistic Regression](Resources/Session%203)
 - **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
 - [**Google Colab Notebooks**](Resources/Session%203)
+
+### Session 3: Classification Models
+
+- **Slides:** [KNN, SVM, Naive Bayes](Resources/Session%204)
+- **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
+- [**Google Colab Notebooks**](Resources/Session%204)
  
 
 ## Contributing
