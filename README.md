@@ -49,10 +49,10 @@ For detailed information on the schedule and session timings, please refer to th
 - **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
 - [**Google Colab Notebooks**](Resources/Session%203)
 
-### Session 3: Classification Models
+### Session 4: Classification Models
 
 - **Slides:** [KNN, SVM, Naive Bayes](Resources/Session%204)
-- **Video Recording:** [Session 3 Video](https://www.youtube.com/watch?v=aqD8YylTazU)
+- **Video Recording:** [Session 4 Video](https://www.youtube.com/watch?v=PVlAry736vA)
 - [**Google Colab Notebooks**](Resources/Session%204)
  
 
