@@ -54,8 +54,19 @@ For detailed information on the schedule and session timings, please refer to th
 - **Slides:** [KNN, SVM, Naive Bayes](Resources/Session%204)
 - **Video Recording:** [Session 4 Video](https://www.youtube.com/watch?v=PVlAry736vA)
 - [**Google Colab Notebooks**](Resources/Session%204)
- 
 
+### Session 5: Decision Models and Ensemble Methods
+
+- **Slides:** [Decision Trees, Random Forest, AdaBOOST, XGBOOST](Resources/Session%205)
+- **Video Recording:** [Session 5 Video](https://www.youtube.com/watch?v=t695MCAsC88)
+- [**Google Colab Notebooks**](Resources/Session%205)
+
+### Session 6: Optimizers and Regularization
+
+- **Slides:** [Lasso, Ridge Regularization, Adam, Momentum, RMSProp](Resources/Session%206)
+- **Video Recording:** [Session 6 Video](https://www.youtube.com/watch?v=IvGU6QpIlhs)
+- [**Google Colab Notebooks**](Resources/Session%206)
+ 
 ## Contributing
 
 We welcome contributions from the community! If you have additional resources, corrections, or improvements, please submit a pull request or open an issue.
