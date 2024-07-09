@@ -65,8 +65,25 @@ For detailed information on the schedule and session timings, please refer to th
 
 - **Slides:** [Lasso, Ridge Regularization, Adam, Momentum, RMSProp](Resources/Session%206)
 - **Video Recording:** [Session 6 Video](https://www.youtube.com/watch?v=IvGU6QpIlhs)
-- [**Google Colab Notebooks**](Resources/Session%206)
- 
+- [**Google Colab Notebooks**](Resources/Session%206) 
+
+### Session 7: Intro to Pytorch and Deep Learning
+- **Slides:** [Deep Learning, Neural Networks, Pytorch, Convolutional Neural Networks](Resources/Session%207)
+- **Video Recording:** [Session 7 Video](https://www.youtube.com/watch?v=DQvfJ3Kem74)
+- [**Google Colab Notebooks**](Resources/Session%207)
+
+### Session 8: Computer Vision
+- **Slides:** [VGG-19, ResNet](Resources/Session%208)
+- **Video Recording:** [Session 8 Video](https://www.youtube.com/watch?v=L7LLTanQqYo)
+- [**Google Colab Notebooks**](Resources/Session%208)
+
+### Session 9: Natural Language Processing
+- **Slides:** [Text Preprocessing, Word Embeddings(TF-IDF, Word2Vec, GloVe), RNN](Resources/Session%209)
+- **Video Recording:** [Session 9 Video](https://www.youtube.com/watch?v=nAObx5Qgo1w)
+- [**Google Colab Notebooks**](Resources/Session%209)
+
+
+
 ## Contributing
 
 We welcome contributions from the community! If you have additional resources, corrections, or improvements, please submit a pull request or open an issue.
